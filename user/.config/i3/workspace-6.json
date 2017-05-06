@@ -1,0 +1,24 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 5,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 600,
+       "width": 800,
+       "x": 0,
+       "y": 0
+    },
+    "name": "Looking Glass - Brandy (You're A Fine Girl)",
+    "percent": 1,
+    "swallows": [
+       {
+       // "class": "^Spotify$",
+       // "instance": "^spotify$",
+       // "title": "^Looking\\ Glass\\ \\-\\ Brandy\\ \\(You\\'re\\ A\\ Fine\\ Girl\\)$",
+       // "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
+
